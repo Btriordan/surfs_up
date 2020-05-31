@@ -36,4 +36,4 @@ The tempurature in June is typically 4 degrees higher than December. Even though
 # Recommended Further Analysis
   - I would also look at the rainfall to get a more accurate weather analysis.
   - I would take out the outliars to make sure the data is accurate.  
-  - It would be benficial to look into hw many temps tehre are per year.  If a certain year only has a few pieces of info, then we might want to take it out.
+  - It would be benficial to look into how many temps there are per year.  If a certain year only has a few pieces of info, then we might want to take it out.
